@@ -1,0 +1,26 @@
+{
+  "name": "@susytech/susy-wordlist",
+  "version": "1.1.0",
+  "description": "Susy Brain Wallets wordlist library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.spec.js",
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susytech/susy-wordlist.git"
+  },
+  "author": "Susytech <admin@superstring.ch>", "Paritytech <admin@parity.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/susytech/susy-wordlist/issues"
+  },
+  "homepage": "https://github.com/susytech/susy-wordlist#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0",
+    "standard": "^9.0.2"
+  }
+}

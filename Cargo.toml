@@ -1,0 +1,12 @@
+[package]
+name = "susy-wordlist"
+version = "1.2.1"
+description = "Word list used to generate brain wallets for Susy."
+license = "GPL-3.0"
+authors = ["Susytech <admin@superstring.ch>", "Paritytech <admin@parity.io>"]
+repository = "https://github.com/susytech/susy-wordlist"
+
+[dependencies]
+lazy_static = "1.0"
+rand = "0.5"
+itertools = "0.5"
